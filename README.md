@@ -27,3 +27,10 @@ Getting Started
 ---------------
 
 1. Download and run the app.
+2. ![Photo de démonstration](C:\SEM3\image\1.jpg)
+3. ![Photo de démonstration](C:\SEM3\image\2.jpg)
+4. ![Photo de démonstration](C:\SEM3\image\3.jpg)
+5. ![Photo de démonstration](C:\SEM3\image\4.jpg)
+6. ![Photo de démonstration](C:\SEM3\image\5.jpg)
+7. ![Photo de démonstration](C:\SEM3\image\6.jpg)
+8. ![Photo de démonstration](C:\SEM3\image\7.jpg)
